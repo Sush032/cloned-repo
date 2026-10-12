@@ -1,0 +1,27 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+reviewers:
+  - cblecker
+  - jasonbraganza
+  - MadhavJivrajani
+  - mrbobbytables
+  - nikhita
+  - palnabarun
+  - Priyankasaggu11929
+approvers:
+  - cblecker
+  - jasonbraganza
+  - MadhavJivrajani
+  - mrbobbytables
+  - nikhita
+  - palnabarun
+  - Priyankasaggu11929
+emeritus_approvers:
+  - ameukam
+  - calebamiles
+  - fejta
+  - idvoretskyi
+  - spiffxp
+
+labels:
+  - area/github-management

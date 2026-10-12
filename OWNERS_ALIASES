@@ -1,0 +1,226 @@
+aliases:
+  sig-api-machinery-leads:
+    - deads2k
+    - fedebongio
+    - jpbetz
+    - sttts
+  sig-apps-leads:
+    - janetkuo
+    - kow3ns
+    - soltysh
+  sig-architecture-leads:
+    - derekwaynecarr
+    - dims
+    - johnbelamaric
+  sig-auth-leads:
+    - aramase
+    - deads2k
+    - enj
+    - liggitt
+    - micahhausler
+    - ritazh
+  sig-autoscaling-leads:
+    - adrianmoisey
+    - jackfrancis
+    - towca
+    - omerap12
+  sig-cli-leads:
+    - ardaguclu
+    - eddiezane
+    - mpuckett159
+    - soltysh
+  sig-cloud-provider-leads:
+    - bridgetkromhout
+    - cheftako
+    - elmiko
+    - joelspeed
+  sig-cluster-lifecycle-leads:
+    - fabriziopandini
+    - justinsb
+    - neolit123
+    - vincepri
+  sig-contributor-experience-leads:
+    - MadhavJivrajani
+    - Priyankasaggu11929
+    - kaslin
+    - palnabarun
+    - mfahlandt
+  sig-docs-leads:
+    - dipesh-rawat
+    - divya-mohan0209
+    - katcosgrove
+    - natalisucks
+    - onlydole
+    - reylejano
+    - salaxander
+    - tengqm
+  sig-etcd-leads:
+    - ahrtr
+    - ivanvc
+    - jberkus
+    - serathius
+    - siyuanfoundation
+  sig-instrumentation-leads:
+    - dashpole
+    - dgrisonnet
+    - pohly
+    - richabanker
+  sig-k8s-infra-leads:
+    - ameukam
+    - GenPage
+    - hakman
+    - upodroid
+    - xmudrii
+  sig-multicluster-leads:
+    - jeremyot
+    - skitt
+  sig-network-leads:
+    - aojea
+    - bowei
+    - danwinship
+    - guicassolato
+    - mikezappa87
+    - thockin
+  sig-node-leads:
+    - SergeyKanzhelev
+    - dchen1107
+    - derekwaynecarr
+    - mrunalp
+    - haircommander
+  sig-release-leads:
+    - Verolop
+    - cpanato
+    - jeremyrickard
+    - justaugustus
+    - puerco
+    - saschagrunert
+  sig-scalability-leads:
+    - marseel
+    - mengqiy
+    - shyamjvs
+    - wojtek-t
+  sig-scheduling-leads:
+    - dom4ha
+    - macsko
+    - sanposhiho
+  sig-security-leads:
+    - IanColdwater
+    - tabbysable
+  sig-storage-leads:
+    - gnufied
+    - jsafrane
+    - msau42
+    - xing-yang
+  sig-testing-leads:
+    - BenTheElder
+    - aojea
+    - jbpratt
+    - michelle192837
+    - pohly
+  sig-ui-leads:
+    - floreks
+    - joaquimrocha
+    - kahirokunn
+    - maciaszczykm
+    - shu-mutou
+  sig-windows-leads:
+    - aravindhp
+    - claudiubelu
+    - jrvaldes
+    - marosset
+    - zylxjtu
+  wg-ai-gateway-leads:
+    - keithmattix
+    - kflynn
+    - kfswain
+    - nirrozenbaum
+    - shaneutt
+    - xunzhuo
+  wg-api-expression-leads:
+    - apelisse
+    - kwiesmueller
+  wg-batch-leads:
+    - amy
+    - mwielgus
+    - tenzen-y
+  wg-data-protection-leads:
+    - xing-yang
+    - yuxiangqian
+  wg-iot-edge-leads:
+    - cantbewong
+    - cindyxing
+    - dejanb
+  wg-lts-leads:
+    - jeremyrickard
+    - liggitt
+    - micahhausler
+  wg-policy-leads:
+    - JimBugwadia
+    - rficcaglia
+  wg-serving-leads:
+    - ArangoGutierrez
+    - Jeffwan
+    - SergeyKanzhelev
+    - terrytangyuan
+  wg-structured-logging-leads:
+    - pohly
+    - serathius
+  wg-workload-aware-scheduling-leads:
+    - andreyvelich
+    - helayoty
+    - kannon92
+    - mm4tt
+  committee-code-of-conduct:
+    - AnaMMedina21
+    - endocrimes
+    - jeremyrickard
+    - stmcginnis
+    - divya-mohan0209
+  committee-security-response:
+    - SaranBalaji90
+    - cjcullen
+    - cji
+    - enj
+    - joelsmith
+    - micahhausler
+    - ritazh
+    - tabbysable
+  committee-steering:
+    - elmiko
+    - janetkuo
+    - katcosgrove
+    - pacoxu
+    - Priyankasaggu11929
+    - ritazh
+    - soltysh
+## BEGIN CUSTOM CONTENT
+  provider-aws:
+    - justinsb
+    - DavidXU12345
+    - YangjinanHu
+    - samuhale
+  provider-azure:
+    - craiglpeters
+    - feiskyer
+    - khenidak
+  provider-gcp:
+    - aojea
+    - bowei
+    - thockin
+    - wojtek-t
+    - msau42
+  provider-ibmcloud:
+    - spzala
+  provider-openstack:
+    - dulek
+    - jichenjc
+    - kayrus
+    - zetaab
+  provider-vmware:
+    - cantbewong
+    - frapposelli
+  sig-release-subproject-leads:
+    - fsmunoz
+    - katcosgrove
+    - xmudrii
+## END CUSTOM CONTENT
